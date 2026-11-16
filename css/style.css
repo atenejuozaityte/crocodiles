@@ -1,0 +1,39 @@
+body {
+ background: #f7f7f7;
+ color: #333333;
+ font-family: "Merriweather Sans",
+  sans-serif;
+}
+
+h1, h2 {
+    font-family: "Merriweather", serif;
+}
+
+section, header {
+    width: 80%;
+    max-width: 800px;
+    margin: auto;
+}
+h1 {font-size: 7.594rem;} 
+h2 {font-size: 2.250rem;}
+    h1 {
+font-size: 4.768rem;
+margin-top: 2em;
+}
+h2 {
+font-size: 1.953rem;
+margin: 4em 0 1em 0;
+}
+
+p, blockquote {
+  margin-bottom: 1.5rem;
+  line-height: 1.5
+}
+
+h1, h2, blockquote {
+color: #AE821C;
+font-family:
+'Merriweather’,
+serif;
+}
+
