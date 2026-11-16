@@ -2,4 +2,4 @@
 
 [Version 1](https://atenejuozaityte.github.io/crocodiles/)
 
-[Version 1](https://atenejuozaityte.github.io/crocodiles/index2.html)
+[Version 2](https://atenejuozaityte.github.io/crocodiles/index2.html)
